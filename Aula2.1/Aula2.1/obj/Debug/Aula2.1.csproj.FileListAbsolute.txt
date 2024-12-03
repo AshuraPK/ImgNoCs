@@ -1,0 +1,10 @@
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\bin\Debug\Aula2.1.exe.config
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\bin\Debug\Aula2.1.exe
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\bin\Debug\Aula2.1.pdb
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\obj\Debug\Aula2.1.csproj.AssemblyReference.cache
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\obj\Debug\Aula2._1.Form_img.resources
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\obj\Debug\Aula2._1.Properties.Resources.resources
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\obj\Debug\Aula2.1.csproj.GenerateResource.cache
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\obj\Debug\Aula2.1.csproj.CoreCompileInputs.cache
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\obj\Debug\Aula2.1.exe
+C:\Users\walmir.asribeiro\source\repos\Aula2.1\Aula2.1\obj\Debug\Aula2.1.pdb
